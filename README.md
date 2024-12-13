@@ -26,4 +26,6 @@ The entire project, including **code**, **analyses**, and **visualizations**, is
 
 ---
 
-For any questions or contributions, feel free to reach out! 😊
+## 📬 **Contact Information**  
+For questions or support, feel free to reach out:  
+**Email**: gregoire.woroniak@gmail.com  
